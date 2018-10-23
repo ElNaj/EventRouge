@@ -55,11 +55,20 @@ function afficherTop(nombre) {
             }
 
             if (results.length > 0) {
+<<<<<<< HEAD
 
                 for (var i = 0; i < results.length; i++) {
                     var result = results[i];
 
                     var evenement = new Evenement();
+=======
+                var evenement = new Evenement();
+                
+                for (var i = 0; i < results.length; i++) {
+                    var result = results[i];
+
+
+>>>>>>> origin/Gilles
 
                     var nomEvenement = result['Nom_evenement'];
                     var participants = result['Nombre_de_participants'];

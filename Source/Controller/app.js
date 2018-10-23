@@ -1,4 +1,5 @@
 var http = require('http');
+<<<<<<< HEAD
 var fs = require('fs');
 var vm = require('vm');
 var express = require('express');
@@ -9,6 +10,31 @@ var session = require('cookie-session');
 var mysql = require('mysql');
 
 var utilisateurService=require('./UtilisateurService');
+=======
+var express = require('express');
+
+
+var fs = require('fs');
+var vm = require('vm');
+
+
+var io = require('socket.io');
+
+var bodyParser = require('body-parser');
+var mysql = require('mysql');
+
+var io = require('socket.io');
+var session = require("express-session")({
+    secret: 'secret',
+    resave: true,
+    saveUninitialized:true
+});
+var sharedsession = require("express-socket.io-session");
+
+
+
+var utilisateurService = require('./UtilisateurService');
+>>>>>>> origin/Gilles
 
 
 var urlencodedParser = bodyParser.urlencoded({
@@ -20,9 +46,15 @@ var urlencodedParser = bodyParser.urlencoded({
 //----------------------------------- Appel de fichier -----------------------------------------
 
 
+<<<<<<< HEAD
 var contentBD = fs.readFileSync('./Persistence.js');
 
 
+=======
+
+
+var contentBD = fs.readFileSync('./Persistence.js');
+>>>>>>> origin/Gilles
 var contentModel = fs.readFileSync('../Model/Evenement.js');
 var contentModelUtilisateur = fs.readFileSync('../Model/Utilisateur.js');
 
@@ -32,6 +64,7 @@ var contentModelUtilisateur = fs.readFileSync('../Model/Utilisateur.js');
 
 var app = express();
 
+<<<<<<< HEAD
 
 
 
@@ -41,6 +74,30 @@ app.use('/Utilisateur',utilisateurService);
 app.use(session({
     secret: 'secret'
 }));
+=======
+var server = http.createServer(app);
+
+io = io(server);
+
+
+
+
+
+app.use(session)
+
+
+io.use(sharedsession(session));
+
+app.set('socketio',io);
+
+
+
+
+
+
+
+
+>>>>>>> origin/Gilles
 
 
 
@@ -55,8 +112,15 @@ app.use(function (req, res, next) {
         req.resultsTop = [];
     }
 
+<<<<<<< HEAD
     
 
+=======
+    session.io = io;
+    
+
+
+>>>>>>> origin/Gilles
     next();
 
 
@@ -90,6 +154,13 @@ app.get('/', async function (req, res) {
 
 app.use(express.static('../v1.0_View/public'));
 
+<<<<<<< HEAD
 
 
 app.listen(8080);
+=======
+app.use('/Utilisateur', utilisateurService);
+
+server.listen('8080');
+
+>>>>>>> origin/Gilles

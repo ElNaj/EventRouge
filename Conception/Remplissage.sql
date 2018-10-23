@@ -28,6 +28,12 @@ INSERT INTO `gestionevent`.`evenement` (`IdEvenement`, `Nom_evenement`, `Lieu`, 
 
 INSERT INTO `gestionevent`.`evenement` (`IdEvenement`, `Nom_evenement`, `Lieu`, `Date_et_heure`, `Nombre_de_participants`, `Liens`, `Type_d_evenement`, `Descrption`) VALUES ('3', 'SLIMANE', 'Le Zénith Sud', '2018-10-19', '20', 'http://montpellierevents.fnacspectacles.com/place-spectacle/recherche/billet-MTZEN/ma-8.htm', 'musique', 'PRIX DES PLACE 38 à 43 eurosS');
 
+<<<<<<< HEAD
+=======
+INSERT INTO `gestionevent`.`evenement` (`IdEvenement`, `Nom_evenement`, `Lieu`, `Date_et_heure`, `Nombre_de_participants`, `Liens`, `Type_d_evenement`, `Descrption`) VALUES ('4', 'EMF: Electrobeach Music Festival ', 'Le Barcarès, France', '2019-07-12', '100000', 'https://www.festicket.com/fr/festivals/electrobeach-music-festival/2019/', 'Musique électronique', 'Electrobeach Music Festival (EMF) est un festival EDM et dance sur la côte méditerranéenne, en France.');
+
+INSERT INTO `gestionevent`.`evenement` (`IdEvenement`, `Nom_evenement`, `Lieu`, `Date_et_heure`, `Nombre_de_participants`, `Liens`, `Type_d_evenement`, `Descrption`) VALUES ('5', 'LORENZO', 'Le Rockstore34000 Montpellier', '2018-10-26', '3000', 'https://www.digitick.com/lorenzo-concert-le-rockstore-montpellier-26-octobre-2018-css4-digitick-pg101-ri5469567.html', 'Musique', 'Originaire de Rennes, planqué sous bob, lunettes et moustaches, le rappeur LORENZO est apparu sur YouTube en 2015 comme un pop-up : attitude white-trash, verve à la fois littéraire et ordurière et vidéos décalées, le lascar d\'à peine 20 ans cassait internet en quelques secondes');
+>>>>>>> origin/Gilles
 
 #------------------------------------------------------------
 # Table: Consulter
