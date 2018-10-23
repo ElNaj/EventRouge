@@ -133,7 +133,7 @@ mdpSaisie.addEventListener('focus', function () {
 mdpSaisie.addEventListener('blur', function () {
     if (erreurmdp.hasChildNodes()) {
         erreurmdp.removeChild(erreurmdp.childNodes[0]);
-    }
+    
 
 });
 

@@ -237,14 +237,14 @@ router.post('/TraitementConnexion', urlencodedParser, async function (req, res) 
 //------------------------------------- Page Utilisateur-----------------------------------------
 
 router.get('/PageUser', function (req, res) {
-<<<<<<< HEAD
+
     res.render('../../v1.0_View/html/Accueil_user.ejs', {
         prenom: req.session.prenomUtilisateurConnecter
     });
 });
 
 
-=======
+
 
     var prenom = req.session.prenomUtilisateurConnecter;
 
@@ -307,7 +307,7 @@ router.get('/PageUser', function (req, res) {
 //---------------------------------------- Deconnexion -----------------------------------------------
 
 router.get('/TraitementDeco', function (req, res) {
-<<<<<<< HEAD
+
     
     req.session.prenomUtilisateurConnecter='undefined';
     
@@ -318,14 +318,6 @@ router.get('/TraitementDeco', function (req, res) {
 
 
 module.exports=router;
-=======
-
-    req.session.prenomUtilisateurConnecter = 'undefined';
-
-    res.redirect('/');
-
-});
 
 
-module.exports = router;
->>>>>>> origin/Gilles
+

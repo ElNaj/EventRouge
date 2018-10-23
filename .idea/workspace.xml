@@ -2,18 +2,425 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f74b47-c0ec-4f70-a1f7-8c26dc4b325b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/Ecommerce/Ecommerce-master/mcommerce-master/config-server-repo/.idea/config-server-repo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/Ecommerce/Ecommerce-master/mcommerce-master/config-server-repo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/Ecommerce/Ecommerce-master/mcommerce-master/config-server-repo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/Ecommerce/Ecommerce-master/mcommerce-master/config-server-repo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/Ecommerce/Ecommerce-master/mcommerce-master/config-server-repo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/configuration/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/web/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/web/exceptions/ProduitGratuitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/java/com/ecommerce/microcommerce/web/exceptions/ProduitIntrouvableException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../26-InteliJ/microcommerce/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conception/Gantt.gan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/after/test/after-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/arraybuffer.slice/test/slice-buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/coverage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov-report/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/coverage/lcov.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/async-limiter/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/backo2/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/LICENSE-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/lib/base64-arraybuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64-arraybuffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64id/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64id/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64id/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64id/lib/base64id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/base64id/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/better-assert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/.zuul.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/blob/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/callsite/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-bind/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-emitter/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-emitter/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-emitter/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-emitter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-emitter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/component-inherit/test/inherit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/node_modules/cookie/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/node_modules/cookie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/node_modules/cookie/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/node_modules/cookie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/cookie-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc16_ccitt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc16_kermit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc16_modbus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc16_xmodem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc24.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc32.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/crc8_1wire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/create_buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/define_crc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/crc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/engine.io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transports/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transports/polling-jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transports/polling-xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transports/polling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/transports/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/lib/xmlhttprequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/lib/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/lib/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/lib/utf8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/engine.io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transports/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transports/polling-jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transports/polling-xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transports/polling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/lib/transports/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/engine.io/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/decode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/encode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/entities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/examples/simple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/readme.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/reversed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/test/codes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/test/hex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ent/test/num.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/session/cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/session/memory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/session/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-session/session/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/example/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/example/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/lib/hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/express-socket.io-session/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/node_modules/isarray/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/node_modules/isarray/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/node_modules/isarray/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-binary2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/has-cors/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/indexof/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/object-component/test/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseqs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/parseuri/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/random-bytes/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/random-bytes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/random-bytes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/random-bytes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/random-bytes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/lib/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/lib/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/node_modules/array-flatten/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/node_modules/array-flatten/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/node_modules/array-flatten/array-flatten.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/node_modules/array-flatten/array-flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/node_modules/array-flatten/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-adapter/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-adapter/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-adapter/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-adapter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-adapter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.slim.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.slim.dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/dist/socket.io.slim.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/lib/manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/lib/on.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/lib/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/lib/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/binary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/is-buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/isarray/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/isarray/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/node_modules/isarray/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/lib/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/lib/namespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/lib/parent-namespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/lib/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/socket.io/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/to-array/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/to-array/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/to-array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/to-array/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/to-array/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/uid-safe/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/uid-safe/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/uid-safe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/uid-safe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/uid-safe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ultron/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ultron/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ultron/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ultron/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/BufferUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/Constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/ErrorCodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/EventTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/Extensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/PerMessageDeflate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/Receiver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/Sender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/Validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/WebSocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/lib/WebSocketServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/ws/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/autotest.watchr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/example/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-exceptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-headers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-request-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/xmlhttprequest-ssl/tests/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/yeast/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/yeast/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/yeast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Controller/node_modules/yeast/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conception/Remplissage.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Conception/Remplissage.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Controller/Persistence.js" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Controller/Persistence.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Controller/UtilisateurService.js" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Controller/UtilisateurService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Controller/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Controller/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Controller/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Controller/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/v1.0_View/html/Accueil_user.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/v1.0_View/html/Accueil_user.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/v1.0_View/public/contenu/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source/v1.0_View/public/contenu/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/v1.0_View/public/js/verif.js" beforeDir="false" afterPath="$PROJECT_DIR$/Source/v1.0_View/public/js/verif.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +437,74 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="306336348">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.delete.remote" value="1" />
+          <entry key="git.branch.merge" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Gilles" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/Controller/UtilisateurService.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -40,7 +512,98 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cookie-session/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cookie-session/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cookies/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/cryptr/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/fs/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/glob/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/http/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/keygrip/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/mysql/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/tea-merge/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/tea-type/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/views/package.json" />
+      <path value="$PROJECT_DIR$/Source/Controller/node_modules/vm/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="269" />
     <option name="y" value="14" />
     <option name="width" value="1400" />
@@ -53,7 +616,41 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetFilRouge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetFilRouge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetFilRouge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetFilRouge" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetFilRouge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetFilRouge" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetFilRouge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetFilRouge" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="v1.0_View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetFilRouge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetFilRouge" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="v1.0_View" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -61,6 +658,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540280458254" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -88,27 +686,26 @@
       <option name="presentableId" value="Default" />
       <updated>1538727503801</updated>
       <workItem from="1538727505676" duration="419000" />
+      <workItem from="1539780835798" duration="1030000" />
+      <workItem from="1540278050807" duration="2392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419000" />
+    <option name="totallyTimeSpent" value="3841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2595949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -116,15 +713,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.15709643" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.15709643" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +733,19 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/Gilles'&#10;&#10;# Conflicts:&#10;#&#9;Conception/MCD_v1.0&#10;#&#9;Conception/Remplissage.sql&#10;#&#9;README.md&#10;#&#9;Source/Controller/Persistence.js&#10;#&#9;Source/Controller/UtilisateurService.js&#10;#&#9;Source/Controller/app.js&#10;#&#9;Source/Controller/package-lock.json&#10;#&#9;Source/v1.0_View/html/Accueil_user.ejs&#10;#&#9;Source/v1.0_View/public/contenu/css/style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Gilles'&#10;&#10;# Conflicts:&#10;#&#9;Conception/MCD_v1.0&#10;#&#9;Conception/Remplissage.sql&#10;#&#9;README.md&#10;#&#9;Source/Controller/Persistence.js&#10;#&#9;Source/Controller/UtilisateurService.js&#10;#&#9;Source/Controller/app.js&#10;#&#9;Source/Controller/package-lock.json&#10;#&#9;Source/v1.0_View/html/Accueil_user.ejs&#10;#&#9;Source/v1.0_View/public/contenu/css/style.css" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Source/Controller/UtilisateurService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="310" column="4" lean-forward="true" selection-start-line="310" selection-start-column="4" selection-end-line="310" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
